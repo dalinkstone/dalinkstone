@@ -4,7 +4,7 @@
 ### I work on growing the docker user base.
 
 ### 🛠️ Current `outside of work` project:
-- Exploring a universal CDC tool that for MySQL and PostGres databases
+- Exploring a universal CDC tool for MySQL and PostGres databases
 
 ### 🛠️ Things I am *currently* working on `at work`:
 - Collect BDR team metrics to determine where BDRs can improve their cold emails
