@@ -1,18 +1,18 @@
 # 👋 Hello!
 
-## My name is `Dalin Stone` and I am currently a `BDR` at `docker` 🐋
+## My name is `Dalin Stone` and I am currently a `Sr. BDR` at `docker` 🐋
 ### I work on growing the docker user base.
 
 ### 🛠️ Current `outside of work` project:
-- Exploring a universal CDC tool for MySQL and PostGres databases
+- Building a Homelab
 
 ### 🛠️ Things I am *currently* working on `at work`:
 - Collect BDR team metrics to determine where BDRs can improve their cold emails
 
 ### ✅ Things I *accomplished* `at work`:
-- $1M+ in pipeline generated in 120 days
-- $250k in closed won pipeline in 120 days
-- 270%+ quota attainment Q2 2023
+- $2M+ in pipeline generated since April '23
+- $1.2M in closed won pipeline since April '23
+- #1 BDR Q2, Q3, Q4 '23
 - Led an org wide sales training on outbound prospecting
 
 ### ✅ Things I *accomplished* in `previous roles`:
@@ -32,7 +32,6 @@
 - *@Saela*: Sped up the ETL pipeline by adding list comprehension, NumPy calculations, and data type down casting where necessary 
 
 ### 📚 What I'm studying at the moment:
-- Golang
-- Rust
-- TensorFlow
-- PyTorch
+- Tailscale
+- NGINX
+- Apache Server
