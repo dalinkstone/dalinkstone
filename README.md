@@ -1,19 +1,17 @@
 # 👋 Hello!
 
-## My name is `Dalin Stone` and I am currently a `Sr. BDR` at `docker` 🐋
+## My name is `Dalin Stone` and I am currently an `Account Executive` at `docker` 🐋
 ### I work on growing the docker user base.
 
 ### 🛠️ Current `outside of work` project:
-- Building a Homelab
+- Go programming projects
 
 ### 🛠️ Things I am *currently* working on `at work`:
-- Collect BDR team metrics to determine where BDRs can improve their cold emails
+- Random collateral involving Docker material
 
 ### ✅ Things I *accomplished* `at work`:
-- $2M+ in pipeline generated since April '23
-- $1.2M in closed won pipeline since April '23
-- #1 BDR Q2, Q3, Q4 '23
-- Led an org wide sales training on outbound prospecting
+- $400k generated pipeline in first 60 days
+- First deal closed in only 7 days (prospect email to signed order form)
 
 ### ✅ Things I *accomplished* in `previous roles`:
 - *@Abnormal Security*: Created KPI and SLA metrics dashboards in DataBricks using SQL for my team of 30 analysts as an after hours project to support my team
@@ -29,9 +27,17 @@
 - *@Saela*: Migrated new ETL production data into Tableau Dashboards as Tableau Datasources
 - *@Saela*: Fielded and Remediated JIRA tickets for Tableau Server Administration support across the company
 - *@Saela*: Created Docker infra to use containers to run our Prefect ETL pipeline on an AWS EC2 instance
-- *@Saela*: Sped up the ETL pipeline by adding list comprehension, NumPy calculations, and data type down casting where necessary 
+- *@Saela*: Sped up the ETL pipeline by adding list comprehension, NumPy calculations, and data type down casting where necessary
+- *@Docker*: $2M+ in pipeline generated since April '23
+- *@Docker*: $1.2M in closed won pipeline since April '23
+- *@Docker*: #1 BDR Q2, Q3, Q4 '23 & BDR of the YEAR '23
+- *@Docker*: Led an org wide sales training on outbound prospecting
 
 ### 📚 What I'm studying at the moment:
-- Tailscale
-- NGINX
-- Apache Server
+- Golang
+- Ruby
+- Bash
+- Python
+- HTML/CSS/JS
+- Vim
+  
