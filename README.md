@@ -1,17 +1,17 @@
 # 👋 Hello!
 
-## My name is `Dalin Stone` and I am currently an `Account Executive` at `docker` 🐋
+## My name is `Dalin Stone` and I am currently a `Technical Support Engineer` at `docker` 🐋
 ### I work on growing the docker user base.
 
 ### 🛠️ Current `outside of work` project:
-- Go programming projects
+- Medsistra.com
 
 ### 🛠️ Things I am *currently* working on `at work`:
-- Random collateral involving Docker material
+- First Docker Desktop UI contribution in TypeScript
 
 ### ✅ Things I *accomplished* `at work`:
-- $400k generated pipeline in first 60 days
-- First deal closed in only 7 days (prospect email to signed order form)
+- TypeScript contribution to Docker Desktop UI
+- Chrome extension for displaying information on an as needed basis
 
 ### ✅ Things I *accomplished* in `previous roles`:
 - *@Abnormal Security*: Created KPI and SLA metrics dashboards in DataBricks using SQL for my team of 30 analysts as an after hours project to support my team
@@ -34,10 +34,7 @@
 - *@Docker*: Led an org wide sales training on outbound prospecting
 
 ### 📚 What I'm studying at the moment:
-- Golang
-- Ruby
-- Bash
-- Python
-- HTML/CSS/JS
-- Vim
+- AI
+- Datastructures
+- Algorithms
   
