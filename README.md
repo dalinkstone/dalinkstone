@@ -1,7 +1,7 @@
 # 👋 Hello!
 
 ## My name is `Dalin Stone` and I am currently a `Technical Support Engineer` at `docker` 🐋
-### I work on growing the docker user base.
+### I work on supporting the docker user base.
 
 ### 🛠️ Current `outside of work` project:
 - Medsistra.com
