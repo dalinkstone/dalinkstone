@@ -1,18 +1,20 @@
-# 👋 Hello!
+# 👋 Hello I'm Dalin!
 
 ## My name is `Dalin Stone` and I am currently a `Technical Support Engineer` at `docker` 🐋
 ### I work on supporting the docker user base.
 
-## Find me at: [dalinstone.com](https://dalinstone.com)
+## Find me at: [dalinstone.com](https://dalinstone.com) and at [dalinstone@linkedin](https://www.linkedin.com/in/dalinstone/)
 
 ### 🛠️ Current `outside of work` project:
-- Medsistra.com
+- Medsistra.com - A web app for BYU-I students to perform charting when they are at clinicals
 
 ### 🛠️ Things I am *currently* working on `at work`:
 - First Docker Desktop UI contribution in TypeScript
 
 ### ✅ Things I *accomplished* `at work`:
 - TypeScript contribution to Docker Desktop UI
+- Regression model for scoring customer health
+- Automated customer metrics tracking
 - Chrome extension for displaying information on an as needed basis
 
 ### ✅ Things I *accomplished* in `previous roles`:
@@ -39,4 +41,6 @@
 - AI
 - Datastructures
 - Algorithms
-  
+
+### 📝 My blog:
+My blog [dalinstone.com](https://dalinstone.com) has some writing samples along with an overview of who Dalin Stone is as a person, father, and engineer.
