@@ -1,6 +1,6 @@
 # 👋 Hello I'm Dalin!
 
-## My name is `Dalin Stone` and I am currently a `Technical Support Engineer` at `docker` 🐋
+## My name is `Dalin Stone` and I am currently a `Technical Support Engineer II` at `docker` 🐋
 ### I work on supporting the docker user base.
 
 ## Find me at: [dalinstone.com](https://dalinstone.com) and at [dalinstone@linkedin](https://www.linkedin.com/in/dalinstone/)
