@@ -7,6 +7,7 @@
 
 ### 🛠️ Current `outside of work` project:
 - Medsistra.com - A web app for BYU-I students to perform charting when they are at clinicals
+- Rethinking email and taking a stab at using Rust
 
 ### 🛠️ Things I am *currently* working on `at work`:
 - First Docker Desktop UI contribution in TypeScript
