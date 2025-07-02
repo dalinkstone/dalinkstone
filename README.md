@@ -7,7 +7,7 @@
 
 ### 🛠️ Current `outside of work` project:
 - Medsistra.com - A web app for BYU-I students to perform charting when they are at clinicals
-- Rethinking email and taking a stab at using Rust
+- How do we get Linux on Apple silicon M4 so that I never have to buy another laptop again? Tinkering with C++ and Rust. Probably going to have to do swift soon.
 
 ### 🛠️ Things I am *currently* working on `at work`:
 - First Docker Desktop UI contribution in TypeScript
