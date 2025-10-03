@@ -1,6 +1,6 @@
 # 👋 Hello I'm Dalin!
 
-## My name is `Dalin Stone` and I am currently a `Technical Support Engineer II` at `docker` ![Docker Icon](https://img.shields.io/badge/%20-white?style=for-the-badge&logo=docker&color=%232496ED)
+## My name is `Dalin Stone` and I am currently a `Technical Support Engineer II` at `docker` ![Docker Icon](https://img.shields.io/badge/%20-blue?style=for-the-badge&logo=docker&color=%232496ED)
 ### I work on supporting the docker user base.
 
 [![i use arch btw](https://img.shields.io/badge/i%20use%20arch-btw-blue?style=for-the-badge&logo=archlinux&color=%231793D1)](https://wiki.archlinux.org/title/Installation_guide) [![xdalinstone](https://img.shields.io/badge/xdalinstone-blue?style=for-the-badge&logo=x&color=%23000000)](https://x.com/xdalinstone)[![i work here](https://img.shields.io/badge/i%20work-here-blue?style=for-the-badge&logo=docker&color=%232496ED)](https://docker.com)  
