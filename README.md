@@ -8,6 +8,7 @@
 ![programmer userbar](https://hosting.photobucket.com/albums/vv80/jonnypops718/userbars%20v2/1r7u6q.gif)
 ![money userbar](http://i671.photobucket.com/albums/vv80/jonnypops718/userbars%20v2/ubda4760yc1.gif)
 ![runescape userbar](http://i671.photobucket.com/albums/vv80/jonnypops718/userbars%20v2/ubd5173pl0.png)
+![excel userbar](http://i671.photobucket.com/albums/vv80/jonnypops718/userbars%20v2/msexcel29cm.png)
 
 ## Find me at: [dalinstone.com](https://dalinstone.com) and at [dalinstone@linkedin](https://www.linkedin.com/in/dalinstone/)
 
