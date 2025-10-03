@@ -21,7 +21,7 @@
 - Parsing docker.service logs on Linux
 
 <details>
-  <summary>`**Details for recruiters, hiring managers, and coworkers**`</summary>
+  <summary><strong><code>Read this for the long-form of what I've done professionally</code></strong></summary>
 
 ### ✅ Things I *accomplished* `at work`:
 - TypeScript modification to Docker Desktop UI
