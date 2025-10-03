@@ -5,8 +5,6 @@
 
 ![i use arch btw](https://img.shields.io/badge/i%20use%20arch-btw-blue?style=for-the-badge&logo=archlinux&color=%231793D1)
 
-![i use arch btw](https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=java&logoColor=%231793D1)
-
 ## Find me at: [dalinstone.com](https://dalinstone.com) and at [dalinstone@linkedin](https://www.linkedin.com/in/dalinstone/)
 
 ### 🛠️ Current `outside of work` project:
