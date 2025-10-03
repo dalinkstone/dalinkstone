@@ -6,8 +6,8 @@
 [![i use arch btw](https://img.shields.io/badge/i%20use%20arch-btw-blue?style=for-the-badge&logo=archlinux&color=%231793D1)](https://wiki.archlinux.org/title/Installation_guide) [![xdalinstone](https://img.shields.io/badge/xdalinstone-blue?style=for-the-badge&logo=x&color=%23000000)](https://x.com/xdalinstone)[![i work here](https://img.shields.io/badge/i%20work-here-blue?style=for-the-badge&logo=docker&color=%232496ED)](https://docker.com)  
 
 [![programmer userbar](https://hosting.photobucket.com/albums/vv80/jonnypops718/userbars%20v2/1r7u6q.gif)](https://github.com/dalinkstone/inthegym)
-[![money userbar](http://i671.photobucket.com/albums/vv80/jonnypops718/userbars%20v2/ubda4760yc1.gif)](paypal.me/DalinStone")
-[![runescape userbar](http://i671.photobucket.com/albums/vv80/jonnypops718/userbars%20v2/ubd5173pl0.png)](https://secure.runescape.com/m=hiscore_oldschool/c=JEgeWsf-g70/hiscorepersonal)
+[![money userbar](http://i671.photobucket.com/albums/vv80/jonnypops718/userbars%20v2/ubda4760yc1.gif)](paypal.me/DalinStone)
+[![runescape userbar](http://i671.photobucket.com/albums/vv80/jonnypops718/userbars%20v2/ubd5173pl0.png)](https://wiseoldman.net/players/dallypatty)
 [![excel userbar](http://i671.photobucket.com/albums/vv80/jonnypops718/userbars%20v2/msexcel29cm.png)](https://docs.google.com/spreadsheets/d/1nj8Vv8Pti-c73DRYanSo32Ep9Z1Qq8chmaKcvauSN6Y/edit?gid=1233054202#gid=1233054202)
 
 ## Find me at: [dalinstone.com](https://dalinstone.com) and at [dalinstone@linkedin](https://www.linkedin.com/in/dalinstone/)
