@@ -46,7 +46,8 @@
 - *@Docker*: #1 BDR Q2, Q3, Q4 '23 & BDR of the YEAR '23
 - *@Docker*: Led an org wide sales training on outbound prospecting
 - *@Docker*: Made a Chrome Extension for self serving blurbs, rebuttals, questions, and product knowledge using 2-3 button clicks
-- *@Docker*: Created a central repository (a google sheet) that combined all of the relevant customer data from looker and salesforce into a single pane of glass view for consumption, analysis, and QBRs
+- *@Docker*: Created a central repository (a google sheet) that combined all of the relevant customer data from looker and salesforce into a single pane of glass view for consumption, analysis, and QBRs. This was automated.
+- *@Docker*: Did a regression test on the key features of a business subscription and associated usage metrics to score customer health and facilitate triaging of customer succcess meetings
 - *@Docker*: Got access to our staging environemnt, bought a domain, got a free trial for Okta and Azure and then setup a business level account as though I was a customer
 - *@Docker*: Led a training for my team on how to do the same
 - *@Docker*: Added a UI addition for our live webinars into the Docker Desktop UI by modifying some TypeScript (never pushed to prod)
