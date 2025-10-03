@@ -20,6 +20,9 @@
 ### 🛠️ Things I am *currently* working on `at work`:
 - Parsing docker.service logs on Linux
 
+<details>
+  <summary>`**Details for recruiters, hiring managers, and coworkers**`</summary>
+
 ### ✅ Things I *accomplished* `at work`:
 - TypeScript modification to Docker Desktop UI
 - Regression model for scoring customer health
@@ -51,11 +54,13 @@
 - *@Docker*: Got access to our staging environemnt, bought a domain, got a free trial for Okta and Azure and then setup a business level account as though I was a customer
 - *@Docker*: Led a training for my team on how to do the same
 - *@Docker*: Added a UI addition for our live webinars into the Docker Desktop UI by modifying some TypeScript (never pushed to prod)
+</details>
 
 ### 📚 What I'm studying at the moment:
-- AI
 - Datastructures
 - Algorithms
+- Discrete Math
+- Game Theory
 
 ### 📝 My blog:
 My blog [dalinstone.com](https://dalinstone.com) has some writing samples along with an overview of who Dalin Stone is as a person, father, and engineer.
