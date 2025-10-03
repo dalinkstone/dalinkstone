@@ -3,6 +3,9 @@
 ## My name is `Dalin Stone` and I am currently a `Technical Support Engineer II` at `docker` 🐋
 ### I work on supporting the docker user base.
 
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=archlinux)
+
+
 ## Find me at: [dalinstone.com](https://dalinstone.com) and at [dalinstone@linkedin](https://www.linkedin.com/in/dalinstone/)
 
 ### 🛠️ Current `outside of work` project:
