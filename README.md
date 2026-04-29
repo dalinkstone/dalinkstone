@@ -1,9 +1,10 @@
 # 👋 Hello I'm Dalin!
 
-## My name is `Dalin Stone` and I am currently a `Technical Support Engineer II` at `docker` ![Docker Icon](https://img.shields.io/badge/%20-blue?style=for-the-badge&logo=docker&color=white)
-### I work on supporting the docker user base.
+## My name is `Dalin Stone` and I am currently a `Forward Deployed Engineer` at `daytona`  ![Daytona Icon](https://img.shields.io/badge/%20-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjE5MSAxMjQgNzIgNzIiIGZpbGw9IiMxNjE2MTYiPjxwYXRoIGQ9Ik0xOTUuOTk0IDE3Mi4yMzVoMjQuOTI5djguNTQ3aC0yNC45Mjl6bTMzLjQ3Ny0yOS45MTVoMjguNDkxdjguNTQ3aC0yOC40OTF6bS0xNC45NTggMi42MzQgMjEuMTUzLTIxLjE1MyA2LjA0NCA2LjA0NC0yMS4xNTMgMjEuMTUzeiIvPjxwYXRoIGQ9Im0yMTQuNjQ0IDE2Ni4zMjItMTYuMjQ2LTE2LjI0Ni02LjA0MyA2LjA0NCAxNi4yNDUgMTYuMjQ2em0yMS4zNjggMTEuOTU3LTE3LjEyNCAxNy4xMjQtNi4wNDQtNi4wNDQgMTcuMTI0LTE3LjEyNHptLS4xMzEtMjEuMzY4IDE5LjEzOSAxOS4xMzkgNi4wNDMtNi4wNDQtMTkuMTM4LTE5LjEzOXptLTIxLjM2OC0yMS4wMDJ2MjAuNjU2aC04LjU0N3YtMjAuNjU2eiIvPjxwYXRoIGQ9Ik0yNDQuNDI4IDE2NS44MjV2MjUuNjQyaC04LjU0N3YtMjUuNjQyeiIvPjwvc3ZnPg==&color=white)
+### I work on supporting the daytona user base.
 
-[![i use arch btw](https://img.shields.io/badge/i%20use%20arch-btw-blue?style=for-the-badge&logo=archlinux&color=%231793D1)](https://wiki.archlinux.org/title/Installation_guide)[![xdalinstone](https://img.shields.io/badge/xdalinstone-blue?style=for-the-badge&logo=x&color=%23000000)](https://x.com/xdalinstone)[![i work here](https://img.shields.io/badge/i%20work-here-blue?style=for-the-badge&logo=docker&color=%232496ED)](https://docker.com)  
+[![i use arch btw](https://img.shields.io/badge/i%20use%20arch-btw-blue?style=for-the-badge&logo=archlinux&color=%231793D1)](https://wiki.archlinux.org/title/Installation_guide)[![xdalinstone](https://img.shields.io/badge/xdalinstone-blue?style=for-the-badge&logo=x&color=%23000000)](https://x.com/xdalinstone)[![i work here](https://img.shields.io/badge/i%20work-here-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjE5MiAxMjMgNzAgNzMiIGZpbGw9IndoaXRlIj48cGF0aCBkPSJNMTk1Ljk5NCAxNzIuMjM1aDI0LjkyOXY4LjU0N2gtMjQuOTI5em0zMy40NzctMjkuOTE1aDI4LjQ5MXY4LjU0N2gtMjguNDkxem0tMTQuOTU4IDIuNjM0IDIxLjE1My0yMS4xNTMgNi4wNDQgNi4wNDQtMjEuMTUzIDIxLjE1M3oiLz48cGF0aCBkPSJtMjE0LjY0NCAxNjYuMzIyLTE2LjI0Ni0xNi4yNDYtNi4wNDMgNi4wNDQgMTYuMjQ1IDE2LjI0NnptMjEuMzY4IDExLjk1Ny0xNy4xMjQgMTcuMTI0LTYuMDQ0LTYuMDQ0IDE3LjEyNC0xNy4xMjR6bS0uMTMxLTIxLjM2OCAxOS4xMzkgMTkuMTM5IDYuMDQzLTYuMDQ0LTE5LjEzOC0xOS4xMzl6bS0yMS4zNjgtMjEuMDAydjIwLjY1NmgtOC41NDd2LTIwLjY1NnoiLz48cGF0aCBkPSJNMjQ0LjQyOCAxNjUuODI1djI1LjY0MmgtOC41NDd2LTI1LjY0MnoiLz48L3N2Zz4=&color=%23161616)](https://daytona.io)
+
 
 [![programmer userbar](https://hosting.photobucket.com/albums/vv80/jonnypops718/userbars%20v2/1r7u6q.gif)](https://github.com/dalinkstone/inthegym)
 [![money userbar](http://i671.photobucket.com/albums/vv80/jonnypops718/userbars%20v2/ubda4760yc1.gif)](https://paypal.me/DalinStone)
@@ -13,21 +14,18 @@
 ## Find me at: [dalinstone.com](https://dalinstone.com) and at [dalinstone@linkedin](https://www.linkedin.com/in/dalinstone/)
 
 ### 🛠️ Current `outside of work` project:
-- Medsistra.com - A web app for BYU-I students to perform charting when they are at clinicals
-- How do we get Linux on Apple silicon M4 so that I never have to buy another laptop again?
-- Tinkering with C++, C, and Go
+- Skarn.fit - a fitness app for workouts, diet, water intake, and weight
+- How do we get Linux on Apple silicon M4 so that I never have to buy another laptop again? (i haven't done much with this)
+- Tinkering with AI
 
 ### 🛠️ Things I am *currently* working on `at work`:
-- Parsing docker.service logs on Linux
+- Integrating daytona for all shapes and sizes of customers
 
 <details>
   <summary><strong><code>Read this for the long-form of what I've done professionally</code></strong></summary>
 
 ### ✅ Things I *accomplished* `at work`:
-- TypeScript modification to Docker Desktop UI
-- Regression model for scoring customer health
-- Automated customer metrics tracking
-- Chrome extension for displaying information on an as needed basis
+- I just started. Will add more soon.
 
 ### ✅ Things I *accomplished* in `previous roles`:
 - *@Abnormal Security*: Created KPI and SLA metrics dashboards in DataBricks using SQL for my team of 30 analysts as an after hours project to support my team
