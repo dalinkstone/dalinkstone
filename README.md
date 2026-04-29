@@ -55,10 +55,10 @@
 </details>
 
 ### 📚 What I'm studying at the moment:
-- Datastructures
-- Algorithms
-- Discrete Math
-- Game Theory
+- Operating Systems
+- Virtualization
+- MicroVMs
+- Economics
 
 ### 📝 My blog:
 My blog [dalinstone.com](https://dalinstone.com) has some writing samples along with an overview of who Dalin Stone is as a person, father, and engineer.
